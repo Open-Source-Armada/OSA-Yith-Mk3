@@ -28,7 +28,7 @@ Its primarlily plated using a char core with alloys across the front face of the
 
 Two small prop tanks for 2 million prop, 40 mins estimated flight time.
 
-2 T1 fuel chamber, 6 T1 generators, 6 T1 enhancers, 1 hour 10 mins estimated fight time.
+4 T1 fuel chamber, 8 T1 generators, 8 T1 enhancers, 1 hour 10 mins estimated fight time.
 
 Basic script for current Fuel/Prop times.
 
