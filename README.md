@@ -1,5 +1,5 @@
 # OSA-Yith-Mk3
-The Yith is a 8 gun Medium meta fighter seeing multiple changes over patches to Starbase. The Mk3 is an evolution to apply better counters to high end weapons. Comes in autocannon, laser and plasma variants.
+The Yith is a 8 gun medium meta fighter seeing multiple changes over patches to Starbase. The Mk3 is an evolution to apply better counters to high end weapons. Comes in autocannon, laser and plasma variants.
 
 
 //Specs//
