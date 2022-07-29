@@ -95,7 +95,7 @@ The ship is designed to put as much voxel armour on the prow of the ship, and ha
 
 Then came the buff to plasmas, and the introduction of railguns to live, and while the Mk2 held itself well in the face of better weapons, it lacked the countermeasure developed since.
 
-The Mk3 is the result, an attempt to keep the same battle tested hull, and add additional plating to make it less min maxed to counter autoguns/lasers.
+The Mk3 is the next step, an attempt to keep the same battle tested hull, and add additional plating to make it less min maxed to counter autoguns/lasers.
 
 
 //Tactics//
