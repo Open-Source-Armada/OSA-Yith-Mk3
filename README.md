@@ -80,24 +80,6 @@ Total cost 1502985 credits
 Stats based on autocannon, laser and plasma versions will differ.
 
 
-//History//
-
-
-The Mk1 started as a cheap 4 gun fighter made to replace my current meta ship that was nerfed by the headglitch fix.
-
-It was cheap, and fun, but i found my self getting destroyed by a growing size creap of meta fighters i was fighting.
-
-And so with the Mk2 i aimed to double the size and scope of the ship to match, with a secondary goal of replacing the then ageing Metabus.
-
-The Mk2 is to this day my most battle tested fighter i have ever designed, going even beyond the first Migo.
-
-The ship is designed to put as much voxel armour on the prow of the ship, and have a massive big plate core to catch stray shots.
-
-Then came the buff to plasmas, and the introduction of railguns to live, and while the Mk2 held itself well in the face of better weapons, it lacked the countermeasure developed since.
-
-The Mk3 is the next step, an attempt to keep the same battle tested hull, and add additional plating to make it less min maxed to counter autoguns/lasers.
-
-
 //Tactics//
 
 
@@ -120,6 +102,24 @@ My combat expirence has shown me that running fighters in at least pairs is incr
 The Yith is made for this, it has cheap autogun versions that can be built on mass, and more expensive versions will look exactly the same as the cheap, they wont be able to focus the plasma until its too late.
 
 Engage targets in a sideways orbit, this keeps your thickest voxel armour facing your target, and presents the slimmest dimensions to aim at.
+
+
+//History//
+
+
+The Mk1 started as a cheap 4 gun fighter made to replace my current meta ship that was nerfed by the headglitch fix.
+
+It was cheap, and fun, but i found my self getting destroyed by a growing size creap of meta fighters i was fighting.
+
+And so with the Mk2 i aimed to double the size and scope of the ship to match, with a secondary goal of replacing the then ageing Metabus.
+
+The Mk2 is to this day my most battle tested fighter i have ever designed, going even beyond the first Migo.
+
+The ship is designed to put as much voxel armour on the prow of the ship, and have a massive big plate core to catch stray shots.
+
+Then came the buff to plasmas, and the introduction of railguns to live, and while the Mk2 held itself well in the face of better weapons, it lacked the countermeasure developed since.
+
+The Mk3 is the next step, an attempt to keep the same battle tested hull, and add additional plating to make it less min maxed to counter autoguns/lasers.
 
 
 //Design//
