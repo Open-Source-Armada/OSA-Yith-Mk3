@@ -1,5 +1,5 @@
 # OSA-Yith-Mk3
-The Yith is a 8 gun meta fighter seeing multiple changes over patches to Starbase. The Mk3 is an evolution to apply better counters to high end weapons. Comes in autocannon, laser and plasma variants.
+The Yith is a 8 gun Medium meta fighter seeing multiple changes over patches to Starbase. The Mk3 is an evolution to apply better counters to high end weapons. Comes in autocannon, laser and plasma variants.
 
 
 //Specs//
@@ -103,7 +103,7 @@ The Mk3 is the next step, an attempt to keep the same battle tested hull, and ad
 
 This ship is a brawler to its core, and the new counter plating makes crippiling strikes to its flanks harder to do.
 
-8 guns are in my oppinion, the most vital gun config a PvP player/corp needs to contend, for it is the point where even the largest plates are shredded in quck salvos.
+8 gun medium fighters are in my oppinion, the most vital gun config a PvP player/corp needs to contend, for it is the point where even the largest plates are shredded in quck salvos.
 
 It is also the edge of affordibility, past the 8 gun size, it holds less value to go cheap, as the cost of a large ship warrent a increase of higher teir coomponents and late game weapons.
 
